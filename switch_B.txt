@@ -1,2 +1,3 @@
 hello khaoula!
 This is switch B.
+Template 
